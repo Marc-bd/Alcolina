@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_image_content_description">Imagem de um carro que possui a frase "Álcool ou gasolina" dentro dele</string>
+    <string name="app_name">AlcolinaProject</string>
+    <string name="app_title">Saiba a melhor opção para abastecer o seu carro</string>
+    <string name="button_calc">Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="alcool_input_placeholder">Digite o preço do alcool ex: 1.90</string>
+    <string name="gasoline_input_placeholder">Digite o preço da gasolina ex: 3.90</string>
+
+</resources>
